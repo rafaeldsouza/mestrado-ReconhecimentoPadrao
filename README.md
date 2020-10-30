@@ -1,1 +1,3 @@
-# mestrado-ReconhecimentoPadrao-semana-1
+Link para o notebook
+
+https://colab.research.google.com/drive/1PLilv607JjjSXDv3813RgepCRMygrSdz?usp=sharing
