@@ -1,0 +1,1 @@
+# mestrado-ReconhecimentoPadrao-semana-1
